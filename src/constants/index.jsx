@@ -1,0 +1,1 @@
+export const API_WS_ROOT = 'ws://www.hulmevillesoccer.org/cable';
